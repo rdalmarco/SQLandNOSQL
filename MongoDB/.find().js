@@ -1,0 +1,1 @@
+db.getCollection('SAUDEWEB_TBPROREQ').find({})
