@@ -1,1 +1,1 @@
-db.getCollection('SAUDEWEB_TBPROREQ').find({})
+db.getCollection('NOME_COLLECTION').find({})
