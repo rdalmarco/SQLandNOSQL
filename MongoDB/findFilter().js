@@ -1,0 +1,1 @@
+db.getCollection('NOME_COLLECTION').find({"CAMPO_FILTRAR" : "VALOR"})
